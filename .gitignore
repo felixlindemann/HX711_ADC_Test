@@ -67,3 +67,11 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# PlatformIO
+.pio
+.vscode/
+
+# Private secrets
+src/secrets.h
+secrets.h
